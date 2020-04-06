@@ -1,0 +1,1 @@
+Dism /Image:.\mount /Add-Driver /Driver:.\drivers.intel.hdgraphics.gen3\ /Recurse
